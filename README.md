@@ -2,7 +2,7 @@
 Data Engineering and Analytics Engineering Portfolio
 
 ## Specific Tools
-- T1 : DuckDB
+- T1 : DuckDB - python 3.12.3
 
 ## Learn Data Engineering Projects
 - LDE1 : Document processing with MongoDB, Kafka, Spark, FastAPI and Streamlit
