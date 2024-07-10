@@ -1,10 +1,10 @@
-FROM python:3.12.4-alpine3.20
-RUN apk update && apk upgrade
+FROM python:3.12.4-slim
 
-WORKDIR /usr/src
-COPY . /usr/src
-VOLUME /usr/dockerdata/t1-duckdb
+RUN apt-get -y update && apt-get -y upgrade
 
-RUN pip install --upgrade pip
+WORKDIR /usr/app
+COPY ./ ./
+
 RUN pip install --no-cache-dir -r requirements.txt
-CMD [ "python", "./startscript.py" ]
+
+ENTRYPOINT ["/bin/bash", "-c"]
