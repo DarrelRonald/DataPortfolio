@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/t1-duckdb/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/t1-duckdb/lib" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.12.3 WSL (Ubuntu-24.04): (/home/darrel/github/DataPortfolio/t1-duckdb/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
