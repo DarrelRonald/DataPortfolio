@@ -13,7 +13,7 @@ You can find my curriculum vitae at [Darrel Ronald - LinkedIn](https://www.linke
 ## Spatiomatics Projects
 Code from my SIMO app and our UIM data standard.
 - [x] UIM1 : [Urban Information Model Data Standard](https://spatiomatics.notion.site/UIM-Schema-v2-0-0-d05484499ff84ae89b83eb5ac77a0668)
-- [ ] SIMO1 : JSON schema validation with Pydantic
+- [ ] SIMO1 : UIM JSON Schema validation
 - [ ] SIMO4 : DuckDB
 - [ ] SIMO5 : SQLite
 - [ ] SIMO6 : Postgres
