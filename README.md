@@ -23,7 +23,6 @@ This is the Data Engineering and Analytics Engineering Portfolio from Darrel Ron
 ## Spatiomatics Projects
 - [x] UIM1 : [Urban Information Model Data Standard](https://spatiomatics.notion.site/UIM-Schema-v2-0-0-d05484499ff84ae89b83eb5ac77a0668)
 - [ ] SIMO1 : JSON schema validation with Pydantic
-- [ ] SIMO2 : Testing
 - [ ] SIMO4 : DuckDB
 - [ ] SIMO5 : SQLite
 - [ ] SIMO6 : Postgres
@@ -34,9 +33,9 @@ This is the Data Engineering and Analytics Engineering Portfolio from Darrel Ron
 - [x] U3 : SQL Bootcamp, [Jose Portilla](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 - [ ] U4 : Python Bootcamp, [Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)
 - [ ] U5 : Docker Masterclass for ML and Data Science, Jordan Sauchuk
-- [ ] U6 : Hands-on Airbyte, [Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-introduction-to-airbyte/)
+- [ ] U6 : Complete Hands-on Airbyte, [Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-introduction-to-airbyte/)
 - [ ] U7 : Complete dbt Bootcamp, [Zoltan Toth](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
-- [ ] U8 : AWS Certified Data Engineer Associate, [tephane Maarek, Frank Kane](https://www.udemy.com/course/aws-data-engineer/)
+- [ ] U8 : AWS Certified Data Engineer Associate, [Stephane Maarek, Frank Kane](https://www.udemy.com/course/aws-data-engineer/)
 - [ ] U9 : Elasticsearch and ELK stack, [Frank Kane](https://www.udemy.com/course/elasticsearch-7-and-elastic-stack/)
 
 ## Previous Career Experience
