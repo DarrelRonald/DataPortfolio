@@ -1,5 +1,7 @@
 # DataPortfolio
-This is the Data Engineering and Analytics Engineering Portfolio from Darrel Ronald. It combines diverse materials that serves as code samples, lectures and previous projects. You can find my curriculum vitae at [Darrel Ronald - LinkedIn](https://www.linkedin.com/in/darrelronald/). Detailed CV available upon request. 
+This is the Data Engineering and Analytics Engineering Portfolio from Darrel Ronald. It combines diverse materials that serves as code samples, lectures and previous projects. The below checkmarks state which material is already included in the Data Portfolio. 
+
+You can find my curriculum vitae at [Darrel Ronald - LinkedIn](https://www.linkedin.com/in/darrelronald/). A detailed CV is available upon request. 
 
 ## Lectures & Articles
 - [x] L1 : Data Engineering Quickstart (2023 & 2024, AMS Institute, Amsterdam)
@@ -8,7 +10,22 @@ This is the Data Engineering and Analytics Engineering Portfolio from Darrel Ron
 - [x] L4 : [Killer Product - A Rhino3D Product Analysis](https://medium.com/@DarrelRonald/killer-product-a-rhino3d-product-analysis-2f90ebfd9465)
 - [x] L5 : [Killer Product - A Rhino3D Grasshopper2 Follow-up](https://medium.com/spatiomatics/killer-product-a-rhino3d-grasshopper2-follow-up-19633e52557f)
 
-## Learn Data Engineering Capstone Projects
+## Spatiomatics Projects
+- [x] UIM1 : [Urban Information Model Data Standard](https://spatiomatics.notion.site/UIM-Schema-v2-0-0-d05484499ff84ae89b83eb5ac77a0668)
+- [ ] SIMO1 : JSON schema validation with Pydantic
+- [ ] SIMO4 : DuckDB
+- [ ] SIMO5 : SQLite
+- [ ] SIMO6 : Postgres
+
+## Learn Data Engineering Academy
+Currently completing the [Learn Data Engineering Academy](https://learndataengineering.com/p/academy) from Andreas Kretz.
+
+### Section 1 to 3 - Fundamentals
+- [x] LDE : Data Engineering Basics
+- [x] LDE : Platform & Pipeline Design 
+- [x] LDE : Fundamental Tools
+
+### Section 4 - Capstone Projects
 - [ ] LDE1 : Document processing with MongoDB, Kafka, Spark, FastAPI and Streamlit
 - [ ] LDE2 : Data Engineering on AWS
 - [ ] LDE3 : Data Engineering on Azure
@@ -19,13 +36,6 @@ This is the Data Engineering and Analytics Engineering Portfolio from Darrel Ron
 - [ ] LDE8 : Contact tracing with Elasticsearch
 - [ ] LDE9 : Data Engineering on Hadoop
 - [ ] LDE10 : Dockerized ETL with AWS TD engine and Grafana
-
-## Spatiomatics Projects
-- [x] UIM1 : [Urban Information Model Data Standard](https://spatiomatics.notion.site/UIM-Schema-v2-0-0-d05484499ff84ae89b83eb5ac77a0668)
-- [ ] SIMO1 : JSON schema validation with Pydantic
-- [ ] SIMO4 : DuckDB
-- [ ] SIMO5 : SQLite
-- [ ] SIMO6 : Postgres
 
 ## Udemy Course Certificates
 - [x] U1 : Linux CLI Bootcamp, [Colt Steele](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
