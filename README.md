@@ -1,5 +1,5 @@
 # DataPortfolio
-Data Engineering and Analytics Engineering Portfolio
+This is the Data Engineering and Analytics Engineering Portfolio from Darrel Ronald. It combines diverse materials that serves as code samples, lectures and previous projects. You can find my curriculum vitae at [Darrel Ronald - LinkedIn](https://www.linkedin.com/in/darrelronald/). Detailed CV available upon request. 
 
 ## Lectures & Articles
 - [x] L1 : Data Engineering Quickstart (2023 & 2024, AMS Institute, Amsterdam)
@@ -36,3 +36,6 @@ Data Engineering and Analytics Engineering Portfolio
 - [ ] U5 : Airbyte
 - [ ] U6 : Complete dbt bootcamp
 - [ ] U7 : AWS Certified Data Engineer Associate
+
+## Previous Career Experience
+- [x] P1 : [Architecture and Urban Design Portfolio](https://www.dropbox.com/scl/fi/u3s8ht6iasil3a3zoz4ga/DR-Portfolio-2019-A4-EN-Web.pdf?rlkey=5a8fg83cr1thwhgmed4pnf2z0&dl=0)
