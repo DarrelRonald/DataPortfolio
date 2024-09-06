@@ -29,13 +29,15 @@ This is the Data Engineering and Analytics Engineering Portfolio from Darrel Ron
 - [ ] SIMO6 : Postgres
 
 ## Udemy Course Certificates
-- [ ] U1 : Linux CLI and Bash
-- [ ] U2 : GIT
-- [ ] U3 : Python Bootcamp (Jose Portilla)
-- [ ] U4 : Docker for ML and Data Science
-- [ ] U5 : Airbyte
-- [ ] U6 : Complete dbt bootcamp
-- [ ] U7 : AWS Certified Data Engineer Associate
+- [x] U1 : Linux CLI Bootcamp, [Colt Steele](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
+- [x] U2 : GIT and Github Bootcamp, [Colt Steele](https://www.udemy.com/course/git-and-github-bootcamp/)
+- [x] U3 : SQL Bootcamp, [Jose Portilla](https://www.udemy.com/course/the-complete-sql-bootcamp/)
+- [ ] U4 : Python Bootcamp, [Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)
+- [ ] U5 : Docker Masterclass for ML and Data Science, Jordan Sauchuk
+- [ ] U6 : Hands-on Airbyte, [Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-introduction-to-airbyte/)
+- [ ] U7 : Complete dbt Bootcamp, [Zoltan Toth](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
+- [ ] U8 : AWS Certified Data Engineer Associate, [tephane Maarek, Frank Kane](https://www.udemy.com/course/aws-data-engineer/)
+- [ ] U9 : Elasticsearch and ELK stack, [Frank Kane](https://www.udemy.com/course/elasticsearch-7-and-elastic-stack/)
 
 ## Previous Career Experience
 - [x] P1 : [Architecture and Urban Design Portfolio](https://www.dropbox.com/scl/fi/u3s8ht6iasil3a3zoz4ga/DR-Portfolio-2019-A4-EN-Web.pdf?rlkey=5a8fg83cr1thwhgmed4pnf2z0&dl=0)
