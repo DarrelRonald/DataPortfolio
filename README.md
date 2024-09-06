@@ -2,11 +2,11 @@
 Data Engineering and Analytics Engineering Portfolio
 
 ## Lectures & Articles
-- [ ] L1 : Data Engineering Introduction (2023 & 2024, AMS Institute, Amsterdam)
-- [ ] L2 : Urban Tech Stack Alliance (Alliance Strategy Presentation, online)
-- [ ] L3 : From Designer to Software Developer and Product Manager (2023, Parametric Cafe, Amsterdam)
-- [ ] L4 : [Killer Product - A Rhino3D Product Analysis](https://medium.com/@DarrelRonald/killer-product-a-rhino3d-product-analysis-2f90ebfd9465)
-- [ ] L5 : [Killer Product - A Rhino3D Grasshopper2 Follow-up](https://medium.com/spatiomatics/killer-product-a-rhino3d-grasshopper2-follow-up-19633e52557f)
+- [x] L1 : Data Engineering Quickstart (2023 & 2024, AMS Institute, Amsterdam)
+- [x] L2 : Urban Tech Stack Alliance (2021, Alliance Strategy Presentation, global)
+- [x] L3 : From Designer to Software Developer and Product Manager (2023, Parametric Cafe, Amsterdam)
+- [x] L4 : [Killer Product - A Rhino3D Product Analysis](https://medium.com/@DarrelRonald/killer-product-a-rhino3d-product-analysis-2f90ebfd9465)
+- [x] L5 : [Killer Product - A Rhino3D Grasshopper2 Follow-up](https://medium.com/spatiomatics/killer-product-a-rhino3d-grasshopper2-follow-up-19633e52557f)
 
 ## Learn Data Engineering Capstone Projects
 - [ ] LDE1 : Document processing with MongoDB, Kafka, Spark, FastAPI and Streamlit
@@ -21,10 +21,9 @@ Data Engineering and Analytics Engineering Portfolio
 - [ ] LDE10 : Dockerized ETL with AWS TD engine and Grafana
 
 ## Spatiomatics Projects
-- [ ] UIM1 : Urban Information Model Data Standard
+- [x] UIM1 : [Urban Information Model Data Standard](https://spatiomatics.notion.site/UIM-Schema-v2-0-0-d05484499ff84ae89b83eb5ac77a0668)
 - [ ] SIMO1 : JSON schema validation with Pydantic
 - [ ] SIMO2 : Testing
-- [ ] SIMO3 : Logging
 - [ ] SIMO4 : DuckDB
 - [ ] SIMO5 : SQLite
 - [ ] SIMO6 : Postgres
