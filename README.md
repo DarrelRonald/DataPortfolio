@@ -52,4 +52,4 @@ Completed courses on specialized topics in coding and data.
 
 ## Previous Career Experience
 Art, design, Architecture and Urban Design work from 2005-2021.
-- [x] P1 : [Architecture and Urban Design Portfolio (pdf)](https://www.dropbox.com/scl/fi/u3s8ht6iasil3a3zoz4ga/DR-Portfolio-2019-A4-EN-Web.pdf?rlkey=5a8fg83cr1thwhgmed4pnf2z0&dl=0)
+- [x] P1 : [Architecture and Urban Design Portfolio (pdf)](https://www.dropbox.com/scl/fi/awkugc1465k772qj3j4ql/DR-Portfolio-2023-A4-EN-WEB.pdf?rlkey=i0w1o6y8eng9366f888qszzo2&st=ienye6nf&dl=0)
