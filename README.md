@@ -43,7 +43,7 @@ Completed courses on specialized topics in coding and data.
 - [x] U1 : Linux CLI Bootcamp, [Colt Steele](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
 - [x] U2 : GIT and Github Bootcamp, [Colt Steele](https://www.udemy.com/course/git-and-github-bootcamp/)
 - [x] U3 : SQL Bootcamp, [Jose Portilla](https://www.udemy.com/course/the-complete-sql-bootcamp/)
-- [ ] U4 : Python Bootcamp, [Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)
+- [x] U4 : Python Bootcamp, [Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)
 - [ ] U5 : Docker Masterclass for ML and Data Science, Jordan Sauchuk
 - [ ] U6 : Complete Hands-on Airbyte, [Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-introduction-to-airbyte/)
 - [ ] U7 : Complete dbt Bootcamp, [Zoltan Toth](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
